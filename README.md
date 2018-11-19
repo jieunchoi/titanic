@@ -1,0 +1,2 @@
+# titanic
+first kaggle project
